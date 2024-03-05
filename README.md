@@ -3,6 +3,7 @@ This project is a simple HTML page about Beagles, following a provided Figma des
 
 # Table of Contents
 ¬ Introduction
+
 ¬ Usage
 ¬ Technologies
 ¬ Credits
